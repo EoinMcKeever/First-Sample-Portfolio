@@ -1,0 +1,29 @@
+body {
+    background-color: #EAF6F6;
+    text-align: center;
+}
+
+hr {
+    background-color: white;
+    width: 20%;
+    border-width: 5px;
+    border-style: dotted none none;
+    border-color: gray;
+}
+
+table{
+    margin:auto auto
+}
+
+img{
+    border-radius: 50%;
+}
+
+
+h1{
+    color:red;
+}
+
+h2 {
+    color:red;
+}
